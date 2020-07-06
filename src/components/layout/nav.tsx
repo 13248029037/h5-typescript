@@ -52,12 +52,12 @@ const Nav: React.SFC<RouteComponentProps & Iprops> = (props) => {
     <div className={props.setting.getCollaps ? styles.navCollaps : styles.nav}>
       {
         <header className={styles.header}>
-          <img alt="ITG云效" src={logo} className={styles.logo} />
+          <img alt="" src={logo} className={styles.logo} />
           <span
             className={styles.title}
             style={{ opacity: props.setting.getCollaps ? 0 : 1 }}
           >
-            ITG云效
+            h5 typescript
           </span>
         </header>
       }
