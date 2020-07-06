@@ -1,5 +1,3 @@
-# ITG React+TypeScript 云效平台
-
 ## 技术选型最新版本
 
 1. React
