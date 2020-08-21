@@ -38,10 +38,10 @@ const Login: React.SFC<Iprops> = (props) => {
           <div className={style.title}>
             <Form.Item>
               <h1>
-                <img alt="ITG云效" src={logo} />
-                ITG 云效平台
+                <img alt="xxx" src={logo} />
+                xxxx
               </h1>
-              <p style={{ marginTop: 10 }}>ITG 云效平台致力于提高研发效能</p>
+              <p style={{ marginTop: 10 }}>xxx</p>
             </Form.Item>
           </div>
           <Form.Item
